@@ -6,4 +6,5 @@
     <string name="crime_solved_label">Solved</string>
     <string name="Crime_Title">Crime Title</string>
     <string name="Crime_Date">Crime Date</string>
+    <string name="Police">警察</string>
 </resources>
